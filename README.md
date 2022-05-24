@@ -6,4 +6,4 @@ Download the zip file or clone repo, then just run main.py(or other file accordi
 
 
 # Snake Game
-![alt text]([http://url/to/img.png](https://github.com/ArunRawat404/images/blob/main/snake.PNG))
+![alt text]([https://raw.githubusercontent.com/ArunRawat404/images/main/snake.PNG?token=GHSAT0AAAAAABQRZPX4T5AISGAASQ6H6SN6YUNDTBA])
